@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <defs>
+        <linearGradient x1="24.9999997%" y1="40.5300493%" x2="75.0000003%" y2="53.1248203%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.0766074%" y1="8.47722501%" x2="74.7466011%" y2="87.3447377%" id="linearGradient-2">
+            <stop stop-color="#000000" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.5729055%" y1="25.0115571%" x2="56.100423%" y2="60.5662405%" id="linearGradient-3">
+            <stop stop-color="#000000" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.67379625%" y1="28.8640438%" x2="95.3262013%" y2="71.1359579%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-01" transform="translate(-1419.000000, -673.000000)">
+            <g id="Group-5" transform="translate(1419.000000, 673.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="90" height="90" rx="18.2022472"></rect>
+                <g id="iconfinder_2993698_chrome_logo_logos_icon" transform="translate(10.112360, 10.112360)" fill-rule="nonzero">
+                    <path d="M20.6460674,35.3932584 C20.6460674,27.2486397 27.2486397,20.6460674 35.3932584,20.6460674 C37.6658236,20.6460674 39.7925729,21.2026875 41.7151804,22.1207865 L68.1897368,22.1207865 C62.9367699,9.15506768 50.2430604,0 35.3932584,0 C24.0315125,0 13.9470046,5.37483999 7.47098596,13.6969577 L20.7711808,36.6352123 C20.735897,36.2190076 20.6460674,35.8186444 20.6460674,35.3932584 Z" id="Path" fill="#F44336"></path>
+                    <path d="M35.3932584,50.1404494 C27.6740256,50.1404494 21.4118702,44.1888273 20.7711808,36.6352123 L7.47098596,13.6969577 C2.80542274,19.6925046 0,27.2077752 0,35.3932584 C0,53.3037508 13.3163967,68.0684037 30.5809792,70.4216174 L43.7090756,47.5634713 C41.3405602,49.1850863 38.4804115,50.1404494 35.3932584,50.1404494 Z" id="Path" fill="#00B060"></path>
+                    <path d="M41.7151804,22.1207865 C46.6826363,24.4932624 50.1404494,29.5212048 50.1404494,35.3932584 C50.1404494,40.4507241 47.5892143,44.9067448 43.7090756,47.5634713 L30.5809792,70.4216174 C32.1586694,70.6367408 33.756522,70.7865169 35.3932584,70.7865169 C54.9404873,70.7865169 70.7865169,54.9403074 70.7865169,35.3932584 C70.7865169,30.6958315 69.8513161,26.2221691 68.1897368,22.1207865 L41.7151804,22.1207865 Z" id="Path" fill="#FFC107"></path>
+                    <circle id="XMLID_1302_" fill="#2196F3" cx="35.3932584" cy="35.3932584" r="11.7977528"></circle>
+                    <path d="M48.5355763,28.7896061 L68.1897368,22.1207865 L41.7151804,22.1207865 C44.6644387,23.5292586 47.058337,25.8880529 48.5355763,28.7896061 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                    <path d="M23.1031695,27.3135031 L7.5007216,13.6269103 L20.7379996,36.5545496 C20.4831428,33.2961813 21.3289697,30.0436072 23.1031695,27.3135031 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                    <path d="M34.5410295,50.0766664 L30.4893184,70.4320755 L43.7265964,47.5044418 C41.0321923,49.3543383 37.7924671,50.2481178 34.5410295,50.0766664 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                    <circle id="XMLID_1304_" fill="url(#linearGradient-4)" cx="35.3932584" cy="35.3932584" r="35.3932584"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
